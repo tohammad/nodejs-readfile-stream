@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-readfile-stream",
+  "version": "1.0.0",
+  "description": "Read Huge Text File using streams",
+  "main": "without-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohammad/nodejs-readfile-stream.git"
+  },
+  "author": "Hammad Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tohammad/nodejs-readfile-stream/issues"
+  },
+  "homepage": "https://github.com/tohammad/nodejs-readfile-stream#readme"
+  }
